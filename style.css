@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'DiastemaBold';
+    src: url(fuentes/DiastemaBold.ttf);
+}
+
+@font-face {
+    font-family: 'DiastemaRegular';
+    src: url(fuentes/Diastema\ Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Fontspring';
+    src: url(fuentes/Fontspring-DEMO-magdelin-light.ttf);
+}
+
+@font-face {
+    font-family: 'Sinoreta';
+    src: url(fuentes/sinoretapersonaluseregular-ezdel.ttf);
+}
+
+h1{
+    font-family: 'DiastemaBold';
+    font-size: 70px;
+    color: rgb(75, 96, 63);
+    padding-top: 0%;
+    text-align: center;
+}
+
+
+body{
+    background-color:rgb(235, 218, 194);
+}
+
+
+.fotoarco{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.qes{
+   font-family: 'Fontspring';
+   padding-left: 15%;
+   padding-right: 15%;
+   padding-bottom: 2%;
+   font-size: x-large;
+   text-align: center;
+   color: rgb(120, 71, 7);
+}
+
+
+
+.inf{
+    font-family: 'Fontspring';
+    padding-bottom: 5%;
+    text-align: center;
+    color: rgb(75, 96, 63);
+}
