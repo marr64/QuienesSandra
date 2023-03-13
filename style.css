@@ -1,3 +1,9 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
 @font-face {
     font-family: 'DiastemaBold';
     src: url(fuentes/DiastemaBold.ttf);
@@ -22,7 +28,7 @@ h1{
     font-family: 'DiastemaBold';
     font-size: 70px;
     color: rgb(75, 96, 63);
-    padding-top: 0%;
+    padding-top: 3%;
     text-align: center;
 }
 
@@ -34,8 +40,7 @@ body{
 
 .fotoarco{
     display:block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0px auto;
 }
 
 
